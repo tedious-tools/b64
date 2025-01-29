@@ -1,0 +1,8 @@
+[package]
+name = "b64"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22.1"
+clap = "4.5.27"
